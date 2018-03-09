@@ -29,3 +29,4 @@ alias.br=branch
 alias.st=status
 alias.up=push
 alias.dn=pull
+"__pycache__/ contains the bytecode of the compiled python program"
