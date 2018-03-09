@@ -15,7 +15,6 @@ filter.lfs.smudge=git-lfs smudge -- %f
 filter.lfs.process=git-lfs filter-process
 filter.lfs.required=true
 credential.helper=manager
-user.name=Rasmus
 user.email=rasmusmaide@gmail.com
 core.repositoryformatversion=0
 core.filemode=false
